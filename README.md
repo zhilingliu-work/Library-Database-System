@@ -28,7 +28,7 @@
 
 ---
 
-## 📁 儲存庫檔案樹狀圖 (Repository Structure)
+## 📁 儲存庫檔案清單
 
 ```markdown
 my_library_system/
